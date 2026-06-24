@@ -1,5 +1,7 @@
 # LocalizeGraph AI Copilot: Context-Aware Multilingual Localization & Voice Pipeline
 
+[Project Video](https://drive.google.com/file/d/1LDhizx8wSY8BaiHa5Pt9UGGC0LBMDZ07/view?usp=sharing)
+
 <div align='justify'>
 A resource-optimized generative AI pipeline for context-aware media localization. Integrates an in-memory Semantic Knowledge Graph with a 4-bit quantized Llama-3.1-8B model and Meta's MMS-TTS framework to bypass literal
 machine translation, ensuring cultural nuance and localized voice synthesis on low-VRAM hardware. Includes an automated LLM-as-a-Judge linguistic validation loop and a Gradio dashboard.
